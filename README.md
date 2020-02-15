@@ -1,3 +1,3 @@
 # hello-github
 hello git
-hmm
+all about git
